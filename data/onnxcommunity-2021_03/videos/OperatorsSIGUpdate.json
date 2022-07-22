@@ -1,0 +1,19 @@
+{
+    "copyright_text": "Needs to be clarifed",
+    "description": "",
+    "duration": "",
+    "language": "eng",
+    "recorded": "2022-06-24",
+    "related_urls": "",
+    "speakers": [
+        "Michał Karzyński (Intel) and G. Ramalingam (Microsoft)"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/OS1hWTD9TJ8/hqdefault.jpg",
+    "title": "Operators SIG Update",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=OS1hWTD9TJ8&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=16"
+        }
+    ]
+}
