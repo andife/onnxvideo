@@ -17,7 +17,7 @@
             "url": "https://youtu.be/7l-wZz0qq4k"
         }
     ],
-    "Tags": [
+    "tags": [
         "Triton",
         "onnx",
         "Runtime"

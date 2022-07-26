@@ -17,7 +17,7 @@
             "url": "https://www.youtube.com/watch?v=WEqzbBDqs2I"
         }
     ],
-    "Tags": [
+    "tags": [
         "int8",
         "qat",
         "tensorrt"

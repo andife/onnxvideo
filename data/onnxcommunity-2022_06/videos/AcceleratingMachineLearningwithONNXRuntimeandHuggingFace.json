@@ -16,7 +16,7 @@
             "url": "https://youtu.be/9H7biU4eLZY"
         }
     ],
-    "Tags": [
+    "tags": [
         "hugging face",
         "onnx",
         "runtime"
