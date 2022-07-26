@@ -83,6 +83,12 @@ deploy-preview: html preview_push
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
+#afclean:
+#	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+#	[ ! -d $(DATADIR)/onnxcommunity-2021_03/videos] || rm -rf $(DATADIR)/onnxcommunity-2021_03/videos
+#	[ ! -d $(DATADIR)/onnxcommunity-2021_10/videos] || rm -rf $(DATADIR)/onnxcommunity-2021_03/videos
+#	[ ! -d $(DATADIR)/onnxcommunity-2022_06/videos] || rm -rf $(DATADIR)/onnxcommunity-2022_06/videos
+
 regenerate: link-data
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
