@@ -3,7 +3,7 @@
     "description": "ONNX Runtime allows us to export our models for different platforms and systems. Optimization, however, starts with design. Leaving it when everything seems ready to go a production could make effective optimization impossible. We will see the frequent mistakes and how to avoid them. ",
     "duration": "",
     "language": "eng",
-    "recorded": "44736",
+    "recorded": "2022-06-24",
     "related_urls": "",
     "speakers": [
         "Mauro Bennici (GhostWriter.AI)"
