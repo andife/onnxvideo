@@ -3,20 +3,21 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "44736",
+    "recorded": "44490",
     "related_urls": "",
     "speakers": [
-        "Kevin Chen (NVIDIA)"
+        "Joaquin Anton (Nvidia)"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/rervhzv8C1c?t=873/hqdefault.jpg",
-    "title": "ONNX SIG: Converters",
+    "thumbnail_url": "https://i.ytimg.com/vi/bomYGXt8Y3U/hqdefault.jpg",
+    "title": "Pre-processing WG",
     "videos": [
         {
             "type": "youtube",
-            "url": "https://youtu.be/rervhzv8C1c?t=873"
+            "url": "https://youtu.be/bomYGXt8Y3U"
         }
     ],
     "Tags": [
-        "converters"
+        "Pre-processing",
+        "wg"
     ]
 }

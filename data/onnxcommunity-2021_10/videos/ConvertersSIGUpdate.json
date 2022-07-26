@@ -3,19 +3,19 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "44279",
+    "recorded": "44490",
     "related_urls": "",
     "speakers": [
+        "Chin Huang (IBM)",
         "Guenther Schmuelling (Microsoft)",
-        "Kevin Chen (Nvidia)",
-        "Chin Huang (IBM)"
+        "Kevin Chen (Nvidia)"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/5SqHs2iLyQY&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=20/hqdefault.jpg",
+    "thumbnail_url": "https://i.ytimg.com/vi/W_089tiW86Y/hqdefault.jpg",
     "title": "Converters SIG Update",
     "videos": [
         {
             "type": "youtube",
-            "url": "https://www.youtube.com/watch?v=5SqHs2iLyQY&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=20"
+            "url": "https://youtu.be/W_089tiW86Y"
         }
     ],
     "Tags": [

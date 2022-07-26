@@ -3,20 +3,20 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "44736",
+    "recorded": "44490",
     "related_urls": "",
     "speakers": [
-        "Kevin Chen (NVIDIA)"
+        "Jiajun Jiang (Baidu)"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/rervhzv8C1c?t=873/hqdefault.jpg",
-    "title": "ONNX SIG: Converters",
+    "thumbnail_url": "https://i.ytimg.com/vi/ysDnZ_tgRhM/hqdefault.jpg",
+    "title": "Boosting PaddlePaddle Deployment in Industry",
     "videos": [
         {
             "type": "youtube",
-            "url": "https://youtu.be/rervhzv8C1c?t=873"
+            "url": "https://youtu.be/ysDnZ_tgRhM"
         }
     ],
     "Tags": [
-        "converters"
+        "paddle"
     ]
 }

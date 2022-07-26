@@ -3,17 +3,20 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44279",
     "related_urls": "",
     "speakers": [
         "Sheng"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/OH38o3T4Ffo/hqdefault.jpg",
+    "thumbnail_url": "https://i.ytimg.com/vi/OH38o3T4Ffo&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=13/hqdefault.jpg",
     "title": "SteeringCommitteeUpdates: Stats and Community",
     "videos": [
         {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=OH38o3T4Ffo&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=13"
         }
+    ],
+    "Tags": [
+        "Steering Committee"
     ]
 }

@@ -3,7 +3,7 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44736",
     "related_urls": "",
     "speakers": [
         "Ganesan “Rama” Ramalingam (Microsoft)"
@@ -15,5 +15,8 @@
             "type": "youtube",
             "url": "https://youtu.be/rervhzv8C1c?t=317"
         }
+    ],
+    "Tags": [
+        "Operators"
     ]
 }

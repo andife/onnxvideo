@@ -3,17 +3,20 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44279",
     "related_urls": "",
     "speakers": [
         "Rohit Sharma (AITechSystems-USA_CA)"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/cT87n24PGKQ/hqdefault.jpg",
+    "thumbnail_url": "https://i.ytimg.com/vi/cT87n24PGKQ&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=8/hqdefault.jpg",
     "title": "ONNX on microcontrollers",
     "videos": [
         {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=cT87n24PGKQ&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=8"
         }
+    ],
+    "Tags": [
+        "microcontroler"
     ]
 }

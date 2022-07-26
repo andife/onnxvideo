@@ -3,7 +3,7 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44736",
     "related_urls": "",
     "speakers": [
         "Prasanth Pulavarthi (Microsoft)",
@@ -19,5 +19,8 @@
             "type": "youtube",
             "url": "https://youtu.be/3vLtVL5n1y4"
         }
+    ],
+    "Tags": [
+        "Steering Committee"
     ]
 }

@@ -3,17 +3,21 @@
     "description": "",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44279",
     "related_urls": "",
     "speakers": [
         "Peng Wang (Microsoft China)"
     ],
-    "thumbnail_url": "https://i.ytimg.com/vi/-wHzQHJLB7w/hqdefault.jpg",
+    "thumbnail_url": "https://i.ytimg.com/vi/-wHzQHJLB7w&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=4/hqdefault.jpg",
     "title": "ONNX Runtime Training",
     "videos": [
         {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=-wHzQHJLB7w&list=PLNqLlwTfo3216JwYg7oVExSULuFxf8Dl8&index=4"
         }
+    ],
+    "Tags": [
+        "runtime",
+        "training"
     ]
 }

@@ -3,7 +3,7 @@
     "description": "Hugging Face has democratized state of the art machine learning with Transformers and the Hugging Face Hub, but deploying these large and complex models into production with good performance remains a challenge for most organizations. In this talk, Jeff Boudier will talk you through the latest solutions from Hugging Face to deploy models at scale with great performance leveraging ONNX and ONNX Runtime.",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44736",
     "related_urls": "",
     "speakers": [
         "Jeff Boudier (Hugging Face)"
@@ -15,5 +15,10 @@
             "type": "youtube",
             "url": "https://youtu.be/9H7biU4eLZY"
         }
+    ],
+    "Tags": [
+        "hugging face",
+        "onnx",
+        "runtime"
     ]
 }

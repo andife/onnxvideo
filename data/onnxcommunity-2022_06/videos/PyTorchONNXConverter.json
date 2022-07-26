@@ -3,7 +3,7 @@
     "description": "This session will present an overview of the PyTorch-ONNX converter, its implementation, and recent improvements to support a wide range of models.",
     "duration": "",
     "language": "eng",
-    "recorded": "2022-06-24",
+    "recorded": "44736",
     "related_urls": "",
     "speakers": [
         "Bowen Bao (Microsoft)"
@@ -15,5 +15,9 @@
             "type": "youtube",
             "url": "https://youtu.be/R2mUT_s0PbE"
         }
+    ],
+    "Tags": [
+        "pytorch",
+        "converter"
     ]
 }

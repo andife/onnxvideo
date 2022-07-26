@@ -1,0 +1,23 @@
+{
+    "copyright_text": "Needs to be clarifed",
+    "description": "",
+    "duration": "",
+    "language": "eng",
+    "recorded": "44490",
+    "related_urls": "",
+    "speakers": [
+        "Kiefer Kuah (Intel)"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/caiPAg9ybTM/hqdefault.jpg",
+    "title": "Intel OneAPI software stack: ONNX Support for xPU hardware",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://youtu.be/caiPAg9ybTM"
+        }
+    ],
+    "Tags": [
+        "intel",
+        "xpu"
+    ]
+}
