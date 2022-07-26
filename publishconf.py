@@ -10,9 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://pyvideo.org'
+SITEURL = 'https://andife.github.io/onnxvideo.github.io/'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-GOOGLE_ANALYTICS = 'UA-72949800-2'
+#GOOGLE_ANALYTICS = 'UA-72949800-2'

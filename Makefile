@@ -9,7 +9,7 @@ DATADIR=$(BASEDIR)/data
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_REPO=git@github.com:pyvideo/pyvideo.github.io.git
+GITHUB_PAGES_REPO=git@github.com:andife/onnxvideo.github.io.git
 PREVIEW_GITHUB_PAGES_REPO=git@github.com:pyvideo-preview/pyvideo-preview.github.io.git
 
 DEBUG ?= 0
@@ -62,10 +62,10 @@ html-prod: link-data
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 production_push:
-	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git init -b main && git add .
 	cd $(OUTPUTDIR) && git commit --quiet -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
+	cd $(OUTPUTDIR) && git push origin main --force
 	echo "Upload complete"
 
 deploy: html-prod production_push
@@ -75,7 +75,7 @@ preview_push:
 	cd $(OUTPUTDIR) && git init && git add .
 	cd $(OUTPUTDIR) && git commit -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
+	cd $(OUTPUTDIR) && git push origin main --force
 	echo "Upload complete"
 
 deploy-preview: html preview_push

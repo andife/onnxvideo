@@ -5,7 +5,7 @@ import json
 import os
 
 AUTHOR = 'Unknown'
-SITENAME = 'PyVideo.org'
+SITENAME = 'https://andife.github.io/'
 TEMPLATE_PAGES = {
     'languages.html': 'languages.html',
 }
@@ -70,7 +70,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'themes/pytube-201601/'
 
-GITHUB_URL = 'https://github.com/pyvideo/pyvideo'
+GITHUB_URL = 'https://github.com/andife/pyvideo'
 CONTRIBUTE_URL = 'https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media'
 API_URL = 'https://api.pyvideo.org'
 

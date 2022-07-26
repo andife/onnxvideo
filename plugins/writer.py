@@ -35,13 +35,19 @@ class PyVideoWriter(Writer):
             old_wd = os.getcwd()
             os.chdir('data')
             for path in glob.iglob('**/category.json'):
+                print('path ' + path)
                 directory = os.path.dirname(path)
                 command = "git log --diff-filter=A --follow --format=%ai -1 --".split()
+                #command = "git log --diff-filter=A --follow --date=format:'%Y-%m-%d %H:%M:%S'".split()
+                print(command)
                 command.append(path)
                 output = subprocess.check_output(
                     command, universal_newlines=True)
+                print(output)
+                print('output: ' + output)
                 dt = datetime.datetime.strptime(
                     output.strip(), "%Y-%m-%d %H:%M:%S %z")
+                print(dt)
                 events.append((dt, directory))
             os.chdir(old_wd)
             events.sort(key=operator.itemgetter(1))
