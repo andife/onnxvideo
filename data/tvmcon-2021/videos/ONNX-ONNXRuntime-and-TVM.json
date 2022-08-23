@@ -3,7 +3,8 @@
   "language": "eng",
   "recorded": "2021-12-17",
   "speakers": [
-    "Manash Goswami, Ganesan Ramalingam"
+    "Manash Goswami (Microsoft), 
+    Ganesan Ramalingam (Microsoft)"
   ],
   "thumbnail_url": "https://i.ytimg.com/vi/o2djVyvDmPQ/hqdefault.jpg",
   "title": "ONNX, ONNX Runtime, and TVM",

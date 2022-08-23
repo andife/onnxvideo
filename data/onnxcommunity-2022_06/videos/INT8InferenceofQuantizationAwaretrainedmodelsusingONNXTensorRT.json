@@ -6,8 +6,7 @@
     "recorded": "2022-06-24",
     "related_urls": "",
     "speakers": [
-        "Dheeraj Peri",
-        "NVIDIA"
+        "Dheeraj Peri (NVIDIA)"
     ],
     "thumbnail_url": "https://i.ytimg.com/vi/WEqzbBDqs2I/hqdefault.jpg",
     "title": "INT8 Inference of Quantization-Aware trained models using ONNX-TensorRT",
