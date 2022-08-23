@@ -5,7 +5,7 @@ import json
 import os
 
 AUTHOR = 'Unknown'
-SITENAME = 'https://andife.github.io/'
+SITENAME = 'https://onnx.ai/media/'
 TEMPLATE_PAGES = {
     'languages.html': 'languages.html',
 }
@@ -64,15 +64,15 @@ TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
 TAG_FEED_RSS = 'feeds/tag_%s.rss.xml'
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = True #False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THEME = 'themes/pytube-201601/'
+THEME = 'themes/onnx-202207/'
 
-GITHUB_URL = 'https://github.com/andife/pyvideo'
-CONTRIBUTE_URL = 'https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media'
-API_URL = 'https://api.pyvideo.org'
+GITHUB_URL = 'https://github.com/onnx/onnx.github.io/media'
+CONTRIBUTE_URL = 'https://github.com/onnx/onnx.github.io/media/contribute'
+#API_URL = 'https://api.pyvideo.org'
 
 STATIC_PATHS = [
     'images',
