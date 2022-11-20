@@ -2,7 +2,7 @@ About
 #####
 
 :date: 2016-01-27 23:00
-:modified: 2017-05-25 00:00
+:modified: 2022-11-20 00:00
 :slug: about
 :authors: Andreas Fehlner
 :status: published
@@ -10,22 +10,24 @@ About
 What is onnx.ai/media?
 ----------------------
 
-PyVideo.org_ is an index of Python related media.
+It is an index of Onnx related media.
 
 Why?
 ----
 
-The work done in previous iterations of PyVideo.org_ was invaluable to the Python community.
-Many people do not have the resources (whether that be time, money,
-nearby user groups, etc.) to attend Python informational and educational
-events. PyVideo.org_ is a **freely** available index of
+
+The page is meant to be a central place for media like conference videos around Onnx. 
+So far (and still) the videos can be found next to our wiki and also at https://www.youtube.com/onnxai.
+
+The page is a **freely** available index of
 freely available resources that seek to provide everyone with the
-opportunity to learn about Python.
+opportunity to learn about ONNX.
 
-Where?
-------
+The media should be able to be added as simple json files. Content can be links to presentations, 
+videos, accessible from all over the world. 
 
-The PyVideo.org_ website is hosted on GitHub.com_.
+The project uses the code of pyvideo (https://github.com/pyvideo/) as a starting point. 
+
 
 How?
 ----
@@ -38,9 +40,8 @@ out our `volunteering wiki page`_.
 Who?
 ----
 
-PyVideo is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
+onnx.ai/media is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
 Questions or concerns regarding the site can be addressed to
-`https://gitter.im/pyvideo/pyvideo`_.
 
 .. _`CONTRIBUTORS`: https://github.com/pyvideo/pyvideo/blob/master/CONTRIBUTORS.rst
 .. _`volunteering wiki page`: https://github.com/pyvideo/pyvideo/wiki/How-to-Volunteer
